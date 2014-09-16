@@ -7,7 +7,7 @@
  
     <context-param>
         <param-name>org.scalatra.LifeCycle</param-name>
-        <param-value>com.mycompany.scalatest.ScalatraBootstrap</param-value>
+        <param-value>io.github.lbn.scalatramaventemplate.ScalatraBootstrap</param-value>
     </context-param>
     <listener>
         <listener-class>org.scalatra.servlet.ScalatraListener</listener-class>
